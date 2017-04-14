@@ -1,0 +1,33 @@
+{
+  "name": "hash-teller-lambda",
+  "version": "0.0.1",
+  "description": "AWS Lambda service to generate Instagram Hashtags by the image",
+  "main": "handler.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonNarkevich/hash-teller-lambda.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "instagram",
+    "hashtag",
+    "generator",
+    "s3",
+    "image"
+  ],
+  "author": "antonio.narkevich@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonNarkevich/hash-teller-lambda/issues"
+  },
+  "homepage": "https://github.com/AntonNarkevich/hash-teller-lambda#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "co": "^4.6.0",
+    "lodash": "^4.17.4"
+  }
+}
