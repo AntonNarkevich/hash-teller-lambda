@@ -1,6 +1,6 @@
 {
   "name": "hash-teller-lambda",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "AWS Lambda service to generate Instagram Hashtags by the image",
   "main": "handler.js",
   "scripts": {
